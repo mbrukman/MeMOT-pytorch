@@ -1,3 +1,5 @@
+<img src="./memot.png" width="500px"></img>
+
 ## MeMOT - Pytorch (wip)
 
 Implementation of <a href="https://arxiv.org/abs/2203.16761">MeMOT - Multi-Object Tracking with Memory</a> - in Pytorch.
